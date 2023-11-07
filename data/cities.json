@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Burlats",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-03T11:02:22.513Z",
+      "notes": "",
+      "position": {
+        "lat": "43.6599240747891",
+        "lng": "2.3071289062500004"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Grabow",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2023-11-03T13:34:30.821Z",
+      "notes": "",
+      "position": {
+        "lat": "52.10650519075632",
+        "lng": "19.072265625000004"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Kipreyevo",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-11-03T13:40:22.009Z",
+      "notes": "",
+      "position": {
+        "lat": "56.1210604250441",
+        "lng": "39.02343750000001"
+      },
+      "id": 73930388
+    }
+  ]
+}
